@@ -1,0 +1,21 @@
+//
+//  GA_PrefixHeader.pch
+//  Geek
+//
+//  Created by JimmyOu on 16/6/10.
+//  Copyright © 2016年 JimmyOu. All rights reserved.
+//
+
+#ifndef GA_PrefixHeader_pch
+#define GA_PrefixHeader_pch
+
+#import "GAConfigMacro.h"
+#import "GAUtility.h"
+#import "YYKitMacro.h"
+#import "NSObject+FCUtility.h"
+#import "UIView+Additions.h"
+#import "UIView+FCGesture.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#endif /* GA_PrefixHeader_pch */
